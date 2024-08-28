@@ -1,4 +1,5 @@
-AWS DevOps CI/CD Pipeline Project
+
+"AWS DevOps CI/CD Pipeline Project"
 
 Overview
 
@@ -13,7 +14,7 @@ Workflow:
 1. User Commit: The user commits code to AWS CodeCommit.
 2. CodePipeline: Triggers automatically on code changes in the repository.
 3. CodeBuild:
-Checks out the code.
+Check out the code.
 Executes build and unit tests.
 Scans the code for vulnerabilities.
 Builds the Docker image.

@@ -3,6 +3,8 @@
 
 Overview
 
+<img width="834" height="826" alt="image" src="https://github.com/user-attachments/assets/8c1f2581-e701-445c-b2a6-a266450aaa78" />
+
 This project demonstrates a complete Continuous Integration and Continuous Deployment (CI/CD) pipeline using AWS services. It automates the process of building, testing, scanning, and deploying a Docker image to an Amazon EC2 instance.
 
 Architecture
